@@ -24,8 +24,9 @@
 **Languages:**  
 `C++` 
 
-## **Tools & Databases:**  
+**Tools & Databases:**  
 `Git` `GitHub`
+
 ---
 
 ### 📊 GitHub Stats
